@@ -1,2 +1,5 @@
 .DS_Store
 *.pkl
+*.pyc
+notebooks/.ipynb_checkpoints/tools-checkpoint.py
+notebooks/.ipynb_checkpoints/MicroBooNE Example - data access-checkpoint.ipynb
